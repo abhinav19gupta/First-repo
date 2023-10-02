@@ -1,2 +1,3 @@
 # First-repo
-THis is my first repo
+This is my first repo.
+author-Abhinav gupta
